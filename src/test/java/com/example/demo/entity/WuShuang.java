@@ -12,5 +12,6 @@ public class WuShuang {
     public void test(){};
     public void test1(){
         System.err.println("111111111");
+
     };
 }
