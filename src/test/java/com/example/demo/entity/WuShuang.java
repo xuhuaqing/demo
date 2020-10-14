@@ -9,4 +9,6 @@ package com.example.demo.entity;
  */
 public class WuShuang {
 
+    public void test(){};
+
 }
