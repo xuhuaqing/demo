@@ -10,14 +10,47 @@ package com.example.demo.entity;
 public class WuShuang {
 
     public void test(){};
+    public void test5(){};
     public void test1(){
         System.err.println("111111111");
-
     };
+
+
+    private String len;
+
+    public String getLen() {
+        return len;
+    }
+
+
     public void test2(){};
     public void test3(){};
     public void test4(){};
-    public void test5(){};
     public void test6(){};
 
-}
+    public void setLen(String len) {
+        this.len = len;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    private int age;
+    private String email;
+};
+
+
+
