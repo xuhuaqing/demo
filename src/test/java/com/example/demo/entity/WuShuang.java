@@ -11,4 +11,6 @@ public class WuShuang {
 
     public void test(){};
 
+    public void test1(){};
+
 }
