@@ -50,6 +50,17 @@ public class WuShuang {
 
     private int age;
     private String email;
+
+
+    public String getPhone() {
+        return phone;
+    }
+
+    public void setPhone(String phone) {
+        this.phone = phone;
+    }
+
+    private String phone;
 };
 
 
